@@ -1,0 +1,25 @@
+{
+  "title": "Trend Chaser: A Checkpointed AI-Assisted Workflow for Printful-to-Shopify Merchandise Releases",
+  "version": "1.0.0",
+  "upload_type": "workflow",
+  "publication_date": "2026-11-05",
+  "creators": [
+    {
+      "name": "Coleman, Brendon R."
+    }
+  ],
+  "description": "<p>Trend Chaser is a portable, human-authorized workflow for taking a supplied idea or graphic through artwork preparation, print preflight, Printful configuration, Shopify publication and storefront verification.</p><p>The package includes execution instructions, operator configuration and release-record templates, provider recovery notes, a synthetic pending-publication example, and validation limits. It preserves asset lineage, scopes publication approval, checkpoints progress and reconciles uncertain writes before retrying.</p><p>This release documents an assistant-orchestrated process. It requires an active assistant session, authenticated accounts and suitable connected tools. It does not contain a standalone API, background trend monitor, credentials, merchandise artwork or private operational history. Validation derives from one completed owner-operated release and an offline recovery exercise; physical fulfillment and cross-account portability have not been tested.</p>",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "keywords": [
+    "AI-assisted workflows",
+    "human authorization",
+    "checkpointing",
+    "provenance",
+    "print on demand",
+    "Printful",
+    "Shopify",
+    "merchandise release"
+  ]
+}

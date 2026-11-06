@@ -1,0 +1,31 @@
+{
+  "configuration_version": "1.0.0",
+  "example_only": true,
+  "timezone": null,
+  "destination": {
+    "shopify_domain": null,
+    "printful_store_id": null
+  },
+  "garment_defaults": {
+    "brand": null,
+    "model": null,
+    "colors": [],
+    "placements": [
+      "front"
+    ],
+    "print_method": null,
+    "sizes": []
+  },
+  "pricing": {
+    "currency": null,
+    "retail_by_variant": {},
+    "costs_last_verified_at": null,
+    "costs_include_shipping": null,
+    "costs_include_tax": null
+  },
+  "storage": {
+    "provider": null,
+    "private_run_location": null
+  },
+  "authorization_note": "Configuration is not publish, purchase, or social-posting authorization. Confirm scope from the active user request."
+}

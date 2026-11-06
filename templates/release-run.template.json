@@ -1,0 +1,107 @@
+{
+  "schema_version": "1.0.0",
+  "workflow": "trend-chaser",
+  "run_id": null,
+  "idempotency_key": null,
+  "status": "preparing",
+  "concept_revision": 1,
+  "concept": {
+    "brief": null,
+    "exact_wording": null,
+    "source_refs": [],
+    "supersedes": null
+  },
+  "deadline": {
+    "local_iso": null,
+    "timezone": null,
+    "utc_iso": null
+  },
+  "authorization": {
+    "user_instruction": null,
+    "scope": null,
+    "publish_authorized": false,
+    "social_posting_authorized": false,
+    "purchase_authorized": false,
+    "evidence_ref": null
+  },
+  "destination": {
+    "shopify_domain": null,
+    "printful_store_id": null,
+    "identity_evidence": null
+  },
+  "artwork": {
+    "original_ref": null,
+    "original_sha256": null,
+    "production_ref": null,
+    "production_sha256": null,
+    "width_px": null,
+    "height_px": null,
+    "background": null,
+    "derivative_lineage": []
+  },
+  "configuration": {
+    "garment": null,
+    "catalog_product_id": null,
+    "print_method": null,
+    "colors": [],
+    "sizes": [],
+    "placements": [],
+    "currency": null,
+    "variant_costs_and_retail": [],
+    "shipping_treatment": null
+  },
+  "preflight": {
+    "status": "not_started",
+    "effective_ppi": null,
+    "provider_warnings": [],
+    "visual_review": null,
+    "limitations": []
+  },
+  "listing": {
+    "title": null,
+    "description": null,
+    "mockups": [],
+    "template_suffix": null,
+    "review_packet_ref": null
+  },
+  "provider_ids": {
+    "printful_file_id": null,
+    "printful_template_id": null,
+    "printful_sync_product_id": null,
+    "shopify_product_id": null,
+    "shopify_variants": [],
+    "shopify_media": []
+  },
+  "publication": {
+    "submitted_at_utc": null,
+    "published_at_utc": null,
+    "published_at_local": null,
+    "url": null,
+    "deadline_met": null
+  },
+  "verification": {
+    "provider_sync": "not_checked",
+    "shopify_status": "not_checked",
+    "online_store": "not_checked",
+    "artwork": "not_checked",
+    "prices": "not_checked",
+    "description_size_guide": "not_checked",
+    "cart": "not_checked",
+    "test_cart_restored": "not_checked",
+    "fulfillment": "not_tested"
+  },
+  "delivery": {
+    "product_link": null,
+    "front_mockup_download": null,
+    "artwork_download": null,
+    "caption": null
+  },
+  "events": [],
+  "next_action": null,
+  "blockers": [],
+  "persistent_record": {
+    "provider": null,
+    "record_id": null,
+    "version": null
+  }
+}

@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this workflow, please cite this version."
+title: "Trend Chaser: A Checkpointed AI-Assisted Workflow for Printful-to-Shopify Merchandise Releases"
+version: "1.0.0"
+date-released: "2026-11-05"
+authors:
+  - family-names: "Coleman"
+    given-names: "Brendon R."
+url: "https://github.com/noblebrendon-cloud/trend-chaser"
+license: "CC-BY-4.0"
+abstract: "A portable, human-authorized workflow for artwork preparation, print preflight, Printful configuration, Shopify publication and storefront verification, with private checkpoints and recovery from uncertain writes. Requires an active assistant session and connected tools."
+keywords:
+  - "AI-assisted workflows"
+  - "checkpointing"
+  - "provenance"
+  - "Printful"
+  - "Shopify"

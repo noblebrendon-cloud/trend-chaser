@@ -1,0 +1,12 @@
+# Private operator data belongs outside the public release.
+.env
+.env.*
+!.env.example
+operator-config.json
+runs/
+private/
+artwork/
+credentials/
+dist/
+__pycache__/
+*.pyc
