@@ -4,6 +4,8 @@ A checkpointed AI-assisted workflow for Printful-to-Shopify merchandise releases
 
 **Version:** 1.0.0 · **Creator:** Brendon R. Coleman · **License:** CC BY 4.0
 
+**Archived release:** [10.5281/zenodo.23993469](https://doi.org/10.5281/zenodo.23993469) · [Download v1.0.0 ZIP](https://zenodo.org/records/23993469/files/noblebrendon-cloud/trend-chaser-v1.0.0.zip?download=1)
+
 Trend Chaser takes a supplied concept or graphic through artwork preparation, print checks, product configuration, authorized publication and storefront verification. A private release record preserves completed work so an interrupted session can resume without blindly creating duplicate products.
 
 This repository publishes the portable procedure and templates. Execution requires an active assistant session, authenticated Printful and Shopify accounts, and supported tools. No executable publishing service, API credentials, automatic trend monitor or payment automation is included.
@@ -59,7 +61,7 @@ The package excludes the owner's store identifiers, private file references, art
 
 ## Citation and attribution
 
-Coleman, Brendon R. (2026). *Trend Chaser: A Checkpointed AI-Assisted Workflow for Printful-to-Shopify Merchandise Releases* (Version 1.0.0). https://github.com/noblebrendon-cloud/trend-chaser
+Coleman, Brendon R. (2026). *Trend Chaser: A Checkpointed AI-Assisted Workflow for Printful-to-Shopify Merchandise Releases* (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.23993469
 
 The workflow and documentation were developed with assistance from ChatGPT/Codex. Brendon R. Coleman supplied the goals, release direction and publication instructions. AI assistance is disclosed without assigning it authorship or claiming independent peer review.
 
